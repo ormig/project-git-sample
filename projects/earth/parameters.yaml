@@ -1,0 +1,12 @@
+# Mandatory
+# Name of the customer
+customerName: Solar System
+# Mandatory
+# Name of the project
+projectName: earth
+repositories:
+  - # Mandatory
+    # In MS1 only envgeneInstance is supported
+    type: envgeneInstance
+    # Mandatory
+    url: string
