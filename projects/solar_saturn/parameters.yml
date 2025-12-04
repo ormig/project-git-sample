@@ -3,10 +3,12 @@
 customerName: Solar System
 # Mandatory
 # Name of the project
-projectName: earth
+projectName: saturn
+type: product
+clusterPlatform: ocp
 repositories:
   - # Mandatory
     # In MS1 only envgeneInstance is supported
     type: envgeneInstance
     # Mandatory
-    url: string
+    url: https://github.com/ormig/cloud-passport-samples.git

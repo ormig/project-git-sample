@@ -1,0 +1,14 @@
+# Mandatory
+# Name of the customer
+customerName: Solar System
+# Mandatory
+# Name of the project
+projectName: earth
+type: project
+clusterPlatform: k8s
+repositories:
+  - # Mandatory
+    # In MS1 only envgeneInstance is supported
+    type: envgeneInstance
+    # Mandatory
+    url: https://github.com/ormig/cloud-passport-samples.git
