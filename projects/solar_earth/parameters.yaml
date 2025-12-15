@@ -3,7 +3,7 @@
 customerName: Solar System
 # Mandatory
 # Name of the project
-projectName: earth
+name: earth
 type: project
 clusterPlatform: k8s
 repositories:
