@@ -3,7 +3,7 @@
 customerName: Solar System
 # Mandatory
 # Name of the project
-projectName: saturn
+name: saturn
 type: product
 clusterPlatform: ocp
 repositories:
