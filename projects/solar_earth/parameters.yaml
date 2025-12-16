@@ -11,4 +11,4 @@ repositories:
     # In MS1 only envgeneInstance is supported
     type: envgeneInstance
     # Mandatory
-    url: https://github.com/ormig/cloud-passport-samples2.git
+    url: https://github.com/ormig/helm-test.git
