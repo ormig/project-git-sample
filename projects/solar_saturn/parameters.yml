@@ -12,3 +12,4 @@ repositories:
     type: envgeneInstance
     # Mandatory
     url: https://github.com/ormig/cloud-passport-samples.git
+    region: cn
